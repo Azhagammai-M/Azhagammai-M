@@ -14,7 +14,7 @@
      
      
 <td align="center">
-<img src="https://github.com/user-attachments/assets/835be2ad-91db-4dfd-bca9-ec7be20c84dc"alt="Data analytics techniques" width="500" height="700">
+<img src="https://github.com/user-attachments/assets/835be2ad-91db-4dfd-bca9-ec7be20c84dc"alt="Data analytics techniques" width="400" height="500">
   </td>
 
 
