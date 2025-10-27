@@ -4,7 +4,7 @@
 
 <table align="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="500" height="300" valign="top">
       <h2>🚀 My Data Dream</h2>
 <ul style="list-style-type: none; padding-left: 0;">
   <li>🎯 My ultimate goal is to master the <strong>data ecosystem</strong> — from <strong>data engineering</strong> to <strong>data analysis</strong> and <strong>data science</strong>.</li>
@@ -14,7 +14,7 @@
      
      
 <td align="center">
-<img src="https://github.com/user-attachments/assets/835be2ad-91db-4dfd-bca9-ec7be20c84dc"alt="Data analytics techniques" width="400" height="500">
+<img src="https://github.com/user-attachments/assets/835be2ad-91db-4dfd-bca9-ec7be20c84dc"alt="Data analytics techniques" width="400" height="800">
   </td>
 
 
